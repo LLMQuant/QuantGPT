@@ -1,5 +1,5 @@
 <div align="center">
-<img align="center" width="30%" alt="image" src="https://github.com/LLMQuant/QuantGPT/blob/main/quantGPT.png">
+<img align="center" width="30%" alt="image" src="https://github.com/LLMQuant/QuantGPT/blob/main/QuantGPT.png">
 </div>
 
 # QuantGPT: Enhancing Retrieval-Augmented Generation in Finance using Large Language Models
