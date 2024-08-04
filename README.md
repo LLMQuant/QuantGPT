@@ -1,3 +1,21 @@
+<div align="center">
+<img align="center" width="30%" alt="image" src="https://github.com/LLMQuant/QuantGPT/blob/main/quantGPT.png">
+</div>
+
+# QuantGPT: Enhancing Retrieval-Augmented Generation in Finance using Large Language Models
+[![Downloads](https://static.pepy.tech/badge/quantgpt)]([https://pepy.tech/project/quantgpt](https://pepy.tech/project/quantgpt))
+[![Downloads](https://static.pepy.tech/badge/quantgpt/week)](https://pepy.tech/project/quantgpt)
+[![Python 3.8](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)
+[![PyPI](https://img.shields.io/pypi/v/quantgpt.svg)](https://pypi.org/project/quantgpt/)
+![License](https://img.shields.io/github/license/LLMQuant/quantgpt.svg?color=brightgreen)
+![](https://img.shields.io/github/issues-raw/LLMQuant/quantgpt?label=Issues)
+![](https://img.shields.io/github/issues-closed-raw/LLMQuant/quantgpt?label=Closed+Issues)
+![](https://img.shields.io/github/issues-pr-raw/LLMQuant/quantgpt?label=Open+PRs)
+![](https://img.shields.io/github/issues-pr-closed-raw/LLMQuant/quantgpt?label=Closed+PRs)
+
+<div align="center">
+<img align="center" src="figs/logo_white_background.jpg" width="40%"/>
+</div>
 
 # QuantGPT
 
